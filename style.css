@@ -66,4 +66,12 @@ p{
 .links:hover{
     background-color: fuchsia;
 }
-
+.article:hover{
+    color:chartreuse;
+}
+a{
+    text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
